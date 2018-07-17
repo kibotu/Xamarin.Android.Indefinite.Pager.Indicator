@@ -1,5 +1,5 @@
 
-# Xamarin.Android.Indefinite.Pager.Indicator [![BuildVersion](https://buildstats.info/nuget/Xamarin.Android.Indefinite.Pager.Indicator)](https://www.nuget.org/packages/Xamarin.Android.Indefinite.Pager.Indicator/)
+# Xamarin.Android.Indefinite.Pager.Indicator [![Build Status](https://app.bitrise.io/app/5dc870c99051a520/status.svg?token=FdGseowbt-2lw94VPDdGnQ&branch=master)](https://app.bitrise.io/app/5dc870c99051a520) [![BuildVersion](https://buildstats.info/nuget/Xamarin.Android.Indefinite.Pager.Indicator)](https://www.nuget.org/packages/Xamarin.Android.Indefinite.Pager.Indicator/)
 
 A lightweight, plug-and-play indefinite pager indicator for RecyclerViews &amp; ViewPagers.
 
