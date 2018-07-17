@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Android.Indefinite.Pager.Indicator", "Xamarin.Android.Indefinite.Pager.Indicator\Xamarin.Android.Indefinite.Pager.Indicator.csproj", "{DA4A0C52-2D5F-4972-A0A4-61285E7C9AE3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3DE74057-8E72-4EFD-B2D3-BBCF33A4D218}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA4A0C52-2D5F-4972-A0A4-61285E7C9AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4A0C52-2D5F-4972-A0A4-61285E7C9AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4A0C52-2D5F-4972-A0A4-61285E7C9AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4A0C52-2D5F-4972-A0A4-61285E7C9AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
