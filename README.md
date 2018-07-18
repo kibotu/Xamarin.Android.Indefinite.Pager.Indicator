@@ -29,7 +29,7 @@ Attaching the indicator to a RecyclerView or Viewpager takes only one line of co
 1. Add the IndefinitePagerIndicator view to your XML file
 
 ```xml
-<com.rbrooks.indefinitepagerindicator.IndefinitePagerIndicator
+<Com.Rbrooks.Indefinitepagerindicator.IndefinitePagerIndicator
         android:id="@+id/recyclerview_pager_indicator"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
