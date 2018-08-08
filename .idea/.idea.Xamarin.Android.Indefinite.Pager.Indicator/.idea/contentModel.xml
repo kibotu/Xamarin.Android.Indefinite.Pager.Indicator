@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="README.md" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Xamarin.Android.Indefinite.Pager.Indicator.sln" t="IncludeFlat" />
+      <e p="App" t="IncludeRecursive">
+        <e p="Properties" t="Include">
+          <e p="AndroidManifest.xml" t="Include" />
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Resources" t="Include">
+          <e p="values" t="Include">
+            <e p="Strings.xml" t="Include" />
+            <e p="Styles.xml" t="Include" />
+          </e>
+          <e p="Resource.designer.cs" t="Include" />
+          <e p="layout" t="Include">
+            <e p="Main.xml" t="Include" />
+          </e>
+          <e p="mipmap-xhdpi" t="Include" />
+          <e p="AboutResources.txt" t="Include" />
+          <e p="mipmap-mdpi" t="Include" />
+          <e p="mipmap-xxxhdpi" t="Include" />
+          <e p="mipmap-xxhdpi" t="Include" />
+          <e p="mipmap-hdpi" t="Include" />
+          <e p="drawable" t="Include" />
+        </e>
+        <e p="MainActivity.cs" t="Include" />
+        <e p="App.csproj" t="IncludeRecursive" />
+        <e p="Assets" t="Include">
+          <e p="AboutAssets.txt" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="LICENSE" t="Include" />
+      <e p="Xamarin.Android.Indefinite.Pager.Indicator" t="IncludeRecursive">
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="packages.config" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="library_project_jars" t="Include">
+              <e p="classes.jar" t="Include" />
+            </e>
+            <e p="lp" t="Include">
+              <e p="9" t="Include">
+                <e p="jl" t="Include">
+                  <e p="bin" t="Include">
+                    <e p="classes.jar" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="8" t="Include">
+                <e p="jl" t="Include">
+                  <e p="bin" t="Include">
+                    <e p="classes.jar" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="5" t="Include">
+                <e p="jl" t="Include">
+                  <e p="bin" t="Include">
+                    <e p="classes.jar" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="4" t="Include">
+                <e p="jl" t="Include">
+                  <e p="support-annotations.jar" t="Include" />
+                </e>
+              </e>
+              <e p="2" t="Include">
+                <e p="jl" t="Include">
+                  <e p="bin" t="Include">
+                    <e p="classes.jar" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="0" t="Include">
+                <e p="jl" t="Include">
+                  <e p="arch-core-common.jar" t="Include" />
+                </e>
+              </e>
+              <e p="7" t="Include">
+                <e p="jl" t="Include">
+                  <e p="bin" t="Include">
+                    <e p="classes.jar" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="14" t="Include">
+                <e p="jl" t="Include">
+                  <e p="__reference__kotlin-stdlib-jre7.jar" t="Include" />
+                </e>
+              </e>
+              <e p="13" t="Include">
+                <e p="jl" t="Include">
+                  <e p="__reference__kotlin-stdlib.jar" t="Include" />
+                </e>
+              </e>
+              <e p="1" t="Include">
+                <e p="jl" t="Include">
+                  <e p="arch-lifecycle-common.jar" t="Include" />
+                </e>
+              </e>
+              <e p="3" t="Include">
+                <e p="jl" t="Include">
+                  <e p="bin" t="Include">
+                    <e p="classes.jar" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="6" t="Include">
+                <e p="jl" t="Include">
+                  <e p="bin" t="Include">
+                    <e p="classes.jar" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="11" t="Include">
+                <e p="jl" t="Include">
+                  <e p="bin" t="Include">
+                    <e p="classes.jar" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="15" t="Include">
+                <e p="jl" t="Include">
+                  <e p="__reference__kotlin-stdlib-jre8.jar" t="Include" />
+                </e>
+              </e>
+              <e p="10" t="Include">
+                <e p="jl" t="Include">
+                  <e p="bin" t="Include">
+                    <e p="classes.jar" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="12" t="Include">
+                <e p="jl" t="Include">
+                  <e p="bin" t="Include">
+                    <e p="classes.jar" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="generated" t="Include">
+              <e p="src" t="Include">
+                <e p="Com.Rbrooks.Indefinitepagerindicator.BuildConfig.cs" t="Include" />
+                <e p="Com.Rbrooks.Indefinitepagerindicator.IndefinitePagerIndicator.cs" t="Include" />
+                <e p="Java.Interop.__TypeRegistrations.cs" t="Include" />
+                <e p="__NamespaceMapping__.cs" t="Include" />
+              </e>
+            </e>
+            <e p="__AndroidLibraryProjects__.zip" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Xamarin.Android.Indefinite.Pager.Indicator.csproj" t="IncludeRecursive" />
+        <e p="Jars" t="Include">
+          <e p="indefinitepagerindicator-1.0.9.aar" t="Include" />
+        </e>
+        <e p="Transforms" t="Include">
+          <e p="Metadata.xml" t="Include" />
+          <e p="EnumMethods.xml" t="Include" />
+          <e p="EnumFields.xml" t="Include" />
+        </e>
+        <e p="Additions" t="Include" />
+      </e>
+      <e p="Solution Items" t="Include" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Xamarin.Android.Indefinite.Pager.Indicator.657765477.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+  </component>
+</project>
