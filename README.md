@@ -17,7 +17,7 @@ Have a look at [README.md](https://github.com/rbro112/Android-Indefinite-Pager-I
 
 Add [Xamarin.Android.Indefinite.Pager.Indicator](https://www.nuget.org/packages/Xamarin.Android.Indefinite.Pager.Indicator)
 
-        PM> Install-Package Xamarin.Android.Indefinite.Pager.Indicator -Version 1.0.9
+        PM> Install-Package Xamarin.Android.Indefinite.Pager.Indicator -Version 1.0.9.2
 
 
 ## Getting Started
