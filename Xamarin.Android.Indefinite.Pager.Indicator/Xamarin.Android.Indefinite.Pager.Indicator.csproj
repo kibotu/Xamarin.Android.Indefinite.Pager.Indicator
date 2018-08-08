@@ -37,7 +37,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <AndroidLinkMode>None</AndroidLinkMode>
-    <AndroidCodegenTarget>XamarinAndroid</AndroidCodegenTarget>
+    <AndroidCodegenTarget>XAJavaInterop1</AndroidCodegenTarget>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -92,6 +92,15 @@
     </Reference>
     <Reference Include="Xamarin.Android.Support.v7.RecyclerView">
       <HintPath>..\packages\Xamarin.Android.Support.v7.RecyclerView.27.0.2.1\lib\MonoAndroid81\Xamarin.Android.Support.v7.RecyclerView.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Kotlin.StdLib">
+      <HintPath>..\packages\Xamarin.Kotlin.StdLib.1.1.4.3\lib\MonoAndroid\Xamarin.Kotlin.StdLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Kotlin.StdLib.Jre7">
+      <HintPath>..\packages\Xamarin.Kotlin.StdLib.Jre7.1.1.4.3\lib\MonoAndroid\Xamarin.Kotlin.StdLib.Jre7.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Kotlin.StdLib.Jre8">
+      <HintPath>..\packages\Xamarin.Kotlin.StdLib.Jre8.1.1.4.3\lib\MonoAndroid\Xamarin.Kotlin.StdLib.Jre8.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
